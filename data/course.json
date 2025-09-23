@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Society",
+      "Indigenous Studies"
+    ]
+  ],
+  "legacy_uid": "59347f5c-b0e2-cc1c-6629-eaa015eddb67",
+  "instructors": {
+    "content": [
+      "f81a8d83-4d80-54af-9ebb-f27a53e561f1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d79bc5e1-00ef-33c2-03b0-f622501b2438",
+    "website": "21a-441-the-conquest-of-america-spring-2004"
+  },
+  "course_title": "The Conquest of America",
+  "course_description": "In this course the conquest and colonization of the Americas is considered, with special attention to the struggles of native peoples in Guatemala, Canada, Brazil, Panama, and colonial New England. In two segments of the course-one devoted to the Jesuit missionization of the Huron in the 1630s, the other to struggles between the government of Panama and the Kuna between 1900 and 1925-students examine primary documents such as letters, reports, and court records, to draw their own conclusions. Attention focuses on how we know about and represent past eras and other peoples, as well as on the history of struggles between native Americans and Europeans.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.441",
+  "course_image_thumbnail": {
+    "content": "f3147750-51eb-1905-2149-37da980dcaec",
+    "website": "21a-441-the-conquest-of-america-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "6494c23f-10b7-4b38-a124-abab7b276ec0",
+  "site_short_id": "21a.441-spring-2004",
+  "site_url_path": "courses/21a-441-the-conquest-of-america-spring-2004",
+  "title": "Course Metadata"
+}
