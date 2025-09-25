@@ -10,58 +10,58 @@ uid: df951afa-7d7c-e47c-01b4-31571cb5cbae
 ---
 ## Kuna-related
 
-{{% resource_link "4fca5e22-54db-4a99-9d1d-417be8249086" "la entidad académica y técnica del Congreso General de la Cultura Kuna" %}} 
+[la entidad académica y técnica del Congreso General de la Cultura Kuna](http://onmaked.nativeweb.org/) 
 
-{{% resource_link "29432ace-12f4-42cf-b355-08d591bcb56d" "DbKuna" %}}
+[DbKuna](http://www.binal.ac.pa/panal/kuna/en/quees.php)
 
-{{% resource_link "82ec59a4-d85c-48ab-9357-4acf41624eb2" "Dulenega" %}}
+[Dulenega](http://dulenega.nativeweb.org/)
 
-{{% resource_link "cb5fc19a-a745-4505-88fc-e1b282357e8c" "National Museum of the American Indian" %}}
+[National Museum of the American Indian](http://www.nmai.si.edu/)
 
 ## Indigenist and Indigenous Organizations
 
-{{% resource_link "91fb42b8-ffce-4fd4-8f58-b75f0618b3f0" "Cultural Survival" %}}
+[Cultural Survival](http://www.cs.org/)
 
-{{% resource_link "33c89e65-9fe0-4bfa-8ed0-c4a906e6cd99" "Native Web: Abya Yala Net" %}}
+[Native Web: Abya Yala Net](http://abyayala.nativeweb.org/)
 
-{{% resource_link "1d728a00-3c3f-40f4-bf7f-b22aa12a4919" "Native Lands" %}}
+[Native Lands](http://www.nativeland.org/)
 
-{{% resource_link "fc9d613c-9a02-4d59-b577-6173acb11e31" "Virtual Library: American Indians" %}}
+[Virtual Library: American Indians](http://www.hanksville.org/NAresources/)
 
 ## People's Missionized by the 17{{< sup "th" >}} Century Jesuits
 
-{{% resource_link "d046e555-913c-4810-8c9f-dfabdf03bfea" "Algonkian" %}}
+[Algonkian](http://www.rootsweb.com/~cansk/Saskatchewan/ethnic/algonkian.html)
 
-{{% resource_link "468776c7-faaf-40dc-a05d-5805d6c506e0" "Montagnais or Innu" %}}
+[Montagnais or Innu](http://www.innu.ca/)
 
-{{% resource_link "4fcd23ee-6592-4d4d-8d45-4b9429b11edc" "Wyandot of Kansas" %}} (Huron)
+[Wyandot of Kansas](http://www.wyandot.org/) (Huron)
 
-{{% resource_link "b66a2fc2-f7f3-47b0-afb2-d9614d5ecdf1" "Wyandotte of Oklahoma" %}}
+[Wyandotte of Oklahoma](http://www.city-data.com/city/Wyandotte-Oklahoma.html)
 
 ## Six Nations of Iroquois (Haudenosaunee)
 
-{{% resource_link "8440a845-a948-4c7a-895d-46b200cb8969" "Six Nations" %}}
+[Six Nations](http://www.sixnations.org/)
 
-{{% resource_link "abe874c6-33d3-48eb-aba8-f6f0f53a3b08" "Seneca" %}}
+[Seneca](http://www.sni.org/)
 
-{{% resource_link "48b86461-d110-47a2-8c04-a67068625590" "Mohawk" %}}
+[Mohawk](http://www.crystalinks.com/mohawk2.html)
 
-{{% resource_link "b3235470-c526-4e2a-8ac4-e648d293153b" "Oneida" %}}
+[Oneida](https://oneida-nsn.gov/)
 
-{{% resource_link "44589daf-bfde-47d3-8b1d-2854cc6b8cc4" "Onondaga" %}}
+[Onondaga](http://www.hanksville.org/sand/contacts/tribal/Tsearch.php?whichName=Onondaga)
 
-{{% resource_link "5bf0e244-00ae-463d-8153-4bfa990f3425" "Cayuga Nation" %}}
+[Cayuga Nation](http://cayuganation-nsn.gov/index.html)
 
-{{% resource_link "42e0b084-d9ce-400a-b25c-4130309a5f67" "Tuscarora" %}}
+[Tuscarora](http://www.tuscaroras.com/)
 
 ## Native Peoples of New England
 
-{{% resource_link "e43d1d9c-77e0-4390-ba64-035a52040a4f" "Seacoke Wampanoag" %}}
+[Seacoke Wampanoag](http://kalel1461.tripod.com/)
 
-{{% resource_link "20ff9394-7946-4767-956f-7a9e7292282d" "Wampanoag of Gay Head" %}}
+[Wampanoag of Gay Head](https://wampanoagtribe-nsn.gov/)
 
 ## Cherokee
 
-{{% resource_link "ebe25a87-91c4-4165-9796-01e602006d96" "Cherokee of Oklahoma" %}}
+[Cherokee of Oklahoma](http://www.cherokee.org/)
 
-{{% resource_link "44b9eba8-29b2-49cd-9df3-85d4929b20c6" "Cherokee eastern band" %}}
+[Cherokee eastern band](https://visitcherokeenc.com/about-us/)

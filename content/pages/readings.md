@@ -93,7 +93,7 @@ Class Presentations on the Colombian Exchange
 {{< tdclose >}}{{< tdopen >}}
 Missionizing the Americas
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a7ee2055-2460-490b-a905-3344ccac022e" "*Jesuit Relations Reader*" %}}*.* Part A. First two texts:    
+[*Jesuit Relations Reader*](http://moses.creighton.edu/kripke/jesuitrelations/)*.* Part A. First two texts:    
 "What One Must Suffer in Wintering with the Savages." (LeJeune 1635, Doc. XXIII).    
 "Instruction for the Fathers of our Society who shall be sent to the Hurons." (Brebeuf 1637, Doc. XXIX).    
 Taylor. Chap. 5 and Chap. 16 through p. 382. (Rest of chapter recommended.)
@@ -114,7 +114,7 @@ Discuss Readings
 {{< tdclose >}}{{< tdopen >}}
 Resistance & rebellion in colonial Latin America
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a7ee2055-2460-490b-a905-3344ccac022e" "*Jesuit Relations Reader*" %}}*.* First Part, all:    
+[*Jesuit Relations Reader*](http://moses.creighton.edu/kripke/jesuitrelations/)*.* First Part, all:    
 "What one must suffer in Wintering with the Savages." (LeJeune 1635, Doc. XXIII).    
 "Instruction for the Fathers of our society who shall be sent to the Hurons." (Brebeuf 1637, Doc. XXIX).    
 "Relation of what occurred among the Hurons in the year 1635." (Brebeuf 1635, Doc. XXV).    
@@ -136,7 +136,7 @@ Film: *Black Robe*
 Colonization of North America, Fur Trade, New France
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "a7ee2055-2460-490b-a905-3344ccac022e" "*Jesuit Relations Reader*" %}}*.* Part 2
+[*Jesuit Relations Reader*](http://moses.creighton.edu/kripke/jesuitrelations/)*.* Part 2
 
 Richter, Daniel. *Ordeal of the Longhouse.* Omohundro Institute of Early American History, 1993, pp. 57-74.
 
@@ -184,7 +184,7 @@ Discuss New England Environment and Economy
 
 Bowden, Henry Warner. "Northeast Indians, English Missions." *American Indians and Christian Missions.* University of Chicago Press. Reprint 1985.
 
-Rowlandson, Mary. "The Captivity of Mrs. Mary Rowlandson." (download from {{% resource_link "5f2709bc-80d4-4d32-b259-ea995de27cd0" "Project Gutenberg" %}}.)
+Rowlandson, Mary. "The Captivity of Mrs. Mary Rowlandson." (download from [Project Gutenberg](http://www.gutenberg.org/ebooks/851).)
 
 Taylor. Chap. 17.
 
