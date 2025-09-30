@@ -4,6 +4,8 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/c00eee299d3450272eac88cd74a45a4f_gasso.pdf
 file_size: 1702250
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/ab410404d76b818709c534d75d07f129_nargana.pdf
 file_size: 355480
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

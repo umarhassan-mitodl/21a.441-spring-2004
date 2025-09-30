@@ -4,6 +4,8 @@ description: Star and Herald, 11/18/19
 file: /courses/21a-441-the-conquest-of-america-spring-2004/700a9bee56408f175ff217bd0dba0f37_starherald_1919_1.pdf
 file_size: 160610
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
