@@ -4,8 +4,6 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/009afdf705997af89aa9433ad908e134_starherald_1919_1.pdf
 file_size: 329530
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

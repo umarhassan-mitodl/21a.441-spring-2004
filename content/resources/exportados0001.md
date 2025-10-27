@@ -4,8 +4,6 @@ description: Exported products during the first half of 1920.
 file: /courses/21a-441-the-conquest-of-america-spring-2004/fda1d6b5805b6247093df1906ce9c588_exportados0001.pdf
 file_size: 397130
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

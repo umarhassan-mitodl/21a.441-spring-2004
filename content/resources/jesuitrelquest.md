@@ -4,8 +4,6 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/a85d9133cfa8af58ee6ecf525f5cb3ce_jesuitrelquest.pdf
 file_size: 16002
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

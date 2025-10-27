@@ -4,8 +4,6 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/b145c122ce0f58471f16002408dc6135_enclosure2.pdf
 file_size: 305148
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

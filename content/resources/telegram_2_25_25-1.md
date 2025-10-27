@@ -4,8 +4,6 @@ description: ''
 file: /courses/21a-441-the-conquest-of-america-spring-2004/c0742d0b6c93159bd1d7e8cc7cdeb5f6_telegram_2_25_25.pdf
 file_size: 186829
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

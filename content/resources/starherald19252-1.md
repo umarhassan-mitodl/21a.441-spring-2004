@@ -4,8 +4,6 @@ description: Star and Herald 1925
 file: /courses/21a-441-the-conquest-of-america-spring-2004/70ded23c60bc90703f1f76deb5d6c841_starherald19252.pdf
 file_size: 526070
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
